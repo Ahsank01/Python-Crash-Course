@@ -1,0 +1,6 @@
+As of now,
+I have learnt how to use Python properly,
+how to work with files,
+how to work with data,
+how to uise conditional statements, 
+etc.
